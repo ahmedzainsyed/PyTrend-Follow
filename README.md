@@ -1,4 +1,4 @@
-# PyTrendFollow - Systematic Futures Trading using Trend Following
+# PyTrend-Follow - Systematic Futures Trading using Trend Following
 
 ## Introduction
 
