@@ -39,7 +39,7 @@ For automated trading with Interactive Brokers, install the latest
 1. Python version 3.* is required
 1. Get the code:
 
-    `git clone https://github.com/chrism2671/PyTrendFollow.git`
+    `git clone https://github.com/ahmedzainsyed/PyTrend-Follow.git`
 
     `cd PyTrendFollow`
 1. Install requirements:
