@@ -41,7 +41,7 @@ For automated trading with Interactive Brokers, install the latest
 
     `git clone https://github.com/ahmedzainsyed/PyTrend-Follow.git`
 
-    `cd PyTrendFollow`
+    `cd PyTrend-Follow`
 1. Install requirements:
     * install python tkinter (for Linux it's usually present in a distribution repository, e.g.
       for Ubuntu: `apt-get install python3-tk`) if necessary.
